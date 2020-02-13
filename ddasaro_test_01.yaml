@@ -1,5 +1,8 @@
 ---
-- hosts: targets
+- name: Hello World!
+  hosts: all
+
   tasks:
-   - name: TEST
-   - debug: msg="Ansible is working!"
+
+  - name: Hello World!
+    shell: echo "Hi! Tower is working!"
