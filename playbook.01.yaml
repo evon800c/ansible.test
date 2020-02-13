@@ -19,12 +19,12 @@
 #      src: index.html
 #      dest: /usr/share/nginx/html/index.html
 
-  - name: Stop NGiNX
-    service:
-      name: nginx
-      state: stopped
+#  - name: Stop NGiNX
+#    service:
+#      name: nginx
+#      state: stopped
       
-  - name: Start NGiNX
-    service:
-      name: nginx
-      state: started
+#  - name: Start NGiNX
+#    service:
+#      name: nginx
+#      state: started
