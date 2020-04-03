@@ -1,572 +1,408 @@
-[
-  {
-    "_id": "5e878a149c1e6fc626d95862",
-    "index": 0,
-    "guid": "92462a85-abd5-4424-a989-c8eeae54246c",
-    "isActive": false,
-    "balance": "$1,904.73",
-    "picture": "http://placehold.it/32x32",
-    "age": 34,
-    "eyeColor": "green",
-    "name": {
-      "first": "Evelyn",
-      "last": "Ayala"
-    },
-    "company": "QUONATA",
-    "email": "evelyn.ayala@quonata.ca",
-    "phone": "+1 (858) 465-3470",
-    "address": "534 Livonia Avenue, Sidman, Alaska, 3331",
-    "about": "Ut est ullamco mollit cillum deserunt qui nulla eu tempor nulla aliqua duis labore proident. Fugiat nisi sit deserunt anim nisi id sunt minim consequat mollit in nostrud magna tempor. Pariatur enim anim dolore mollit cupidatat aliquip non dolore duis est ipsum.",
-    "registered": "Tuesday, May 21, 2019 11:35 AM",
-    "latitude": "81.884958",
-    "longitude": "-114.212159",
-    "tags": [
-      "ex",
-      "occaecat",
-      "labore",
-      "in",
-      "cillum"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Lucinda Jenkins"
-      },
-      {
-        "id": 1,
-        "name": "Contreras Sweeney"
-      },
-      {
-        "id": 2,
-        "name": "Alisha Hurley"
-      }
-    ],
-    "greeting": "Hello, Evelyn! You have 6 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5e878a144577667f2e1e8a67",
-    "index": 1,
-    "guid": "9c9fd015-1daf-4fe3-b51a-81a285cf661e",
-    "isActive": true,
-    "balance": "$3,920.91",
-    "picture": "http://placehold.it/32x32",
-    "age": 30,
-    "eyeColor": "blue",
-    "name": {
-      "first": "Casandra",
-      "last": "Fields"
-    },
-    "company": "PARLEYNET",
-    "email": "casandra.fields@parleynet.biz",
-    "phone": "+1 (954) 475-2645",
-    "address": "652 Beverly Road, Holcombe, Mississippi, 4065",
-    "about": "Est ea aliquip eiusmod excepteur culpa in laboris labore excepteur aliquip. Nostrud est nisi occaecat velit velit aliqua. Cupidatat est est dolor fugiat. Dolor non magna minim culpa magna elit consectetur aute sunt aliqua reprehenderit ad adipisicing. Occaecat laboris elit pariatur laboris ullamco est laboris ullamco id. Eu sunt est consectetur laborum proident.",
-    "registered": "Monday, November 14, 2016 2:40 PM",
-    "latitude": "19.313451",
-    "longitude": "-98.19456",
-    "tags": [
-      "commodo",
-      "consequat",
-      "duis",
-      "id",
-      "culpa"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Clayton Ross"
-      },
-      {
-        "id": 1,
-        "name": "Mollie Petty"
-      },
-      {
-        "id": 2,
-        "name": "Eleanor Bowers"
-      }
-    ],
-    "greeting": "Hello, Casandra! You have 6 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5e878a1405ad95a4a1043738",
-    "index": 2,
-    "guid": "bb2c28d0-93a3-4f3f-9f73-498011910451",
-    "isActive": false,
-    "balance": "$2,931.69",
-    "picture": "http://placehold.it/32x32",
-    "age": 26,
-    "eyeColor": "green",
-    "name": {
-      "first": "Alyson",
-      "last": "Hahn"
-    },
-    "company": "CABLAM",
-    "email": "alyson.hahn@cablam.org",
-    "phone": "+1 (856) 468-2445",
-    "address": "480 Dupont Street, Newkirk, Virginia, 7908",
-    "about": "Velit non ex labore commodo ipsum et elit occaecat sit ad ex eu aliqua. Minim consectetur irure veniam et nulla laboris nulla minim est sunt et. Adipisicing id pariatur Lorem excepteur culpa irure culpa. Elit mollit labore cillum incididunt adipisicing ullamco id enim et occaecat proident do. Minim incididunt sit in anim sit dolor ipsum adipisicing adipisicing laborum anim voluptate deserunt. Enim commodo ex adipisicing esse pariatur cillum. Laboris ea elit aliquip veniam tempor id.",
-    "registered": "Thursday, August 14, 2014 3:11 PM",
-    "latitude": "-26.572416",
-    "longitude": "-29.823299",
-    "tags": [
-      "qui",
-      "deserunt",
-      "laborum",
-      "nostrud",
-      "occaecat"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Blackburn Knowles"
-      },
-      {
-        "id": 1,
-        "name": "Juana Cardenas"
-      },
-      {
-        "id": 2,
-        "name": "Melton Gilmore"
-      }
-    ],
-    "greeting": "Hello, Alyson! You have 10 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5e878a14dc62706065add8db",
-    "index": 3,
-    "guid": "787a625b-ebd3-4fad-8aa3-848fb71289f5",
-    "isActive": true,
-    "balance": "$1,291.29",
-    "picture": "http://placehold.it/32x32",
-    "age": 20,
-    "eyeColor": "blue",
-    "name": {
-      "first": "Penny",
-      "last": "Wells"
-    },
-    "company": "GEEKY",
-    "email": "penny.wells@geeky.info",
-    "phone": "+1 (882) 481-2910",
-    "address": "211 Kossuth Place, Cherokee, Connecticut, 7888",
-    "about": "Duis aliquip tempor elit laboris qui. Labore sunt aute in eiusmod eu ut anim proident velit consectetur cillum in exercitation. Ipsum nisi esse voluptate qui consectetur. Nulla mollit et dolore labore do sunt. Ex voluptate incididunt eiusmod est labore cupidatat sit nostrud consequat minim ex velit cupidatat.",
-    "registered": "Thursday, February 26, 2015 5:56 AM",
-    "latitude": "86.268855",
-    "longitude": "-143.299156",
-    "tags": [
-      "labore",
-      "nulla",
-      "consequat",
-      "elit",
-      "aliquip"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Marks Lynch"
-      },
-      {
-        "id": 1,
-        "name": "Anderson Bradshaw"
-      },
-      {
-        "id": 2,
-        "name": "Beard Lindsey"
-      }
-    ],
-    "greeting": "Hello, Penny! You have 5 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5e878a147ddd9cad257f02f2",
-    "index": 4,
-    "guid": "3ae0b031-43b5-40de-b9b8-c42dc3b9b1e5",
-    "isActive": true,
-    "balance": "$1,573.19",
-    "picture": "http://placehold.it/32x32",
-    "age": 36,
-    "eyeColor": "brown",
-    "name": {
-      "first": "Callie",
-      "last": "Brown"
-    },
-    "company": "BEADZZA",
-    "email": "callie.brown@beadzza.name",
-    "phone": "+1 (914) 517-2385",
-    "address": "226 Kenilworth Place, Hampstead, Delaware, 9088",
-    "about": "Dolor Lorem duis eu culpa commodo culpa voluptate minim ex amet laboris quis non aliquip. Officia aliqua commodo ut exercitation occaecat proident ad laboris ad duis velit proident exercitation. Fugiat id ut ex officia excepteur sit sunt ad incididunt. Voluptate voluptate quis nostrud eu laborum consequat dolor. Laborum commodo ea do pariatur consequat irure velit.",
-    "registered": "Thursday, March 23, 2017 8:53 AM",
-    "latitude": "17.640566",
-    "longitude": "-139.954962",
-    "tags": [
-      "consectetur",
-      "cillum",
-      "id",
-      "aliquip",
-      "aute"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Janice Wood"
-      },
-      {
-        "id": 1,
-        "name": "Marquez Parker"
-      },
-      {
-        "id": 2,
-        "name": "Dickerson Luna"
-      }
-    ],
-    "greeting": "Hello, Callie! You have 10 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "5e878a148fdda02fc3763eb0",
-    "index": 5,
-    "guid": "86247aea-de11-4529-9d01-e066c148432e",
-    "isActive": false,
-    "balance": "$2,961.43",
-    "picture": "http://placehold.it/32x32",
-    "age": 39,
-    "eyeColor": "green",
-    "name": {
-      "first": "Calderon",
-      "last": "Hoover"
-    },
-    "company": "UPDAT",
-    "email": "calderon.hoover@updat.com",
-    "phone": "+1 (846) 513-3379",
-    "address": "505 Madison Place, Chumuckla, American Samoa, 953",
-    "about": "Consectetur aliqua ea esse id ullamco commodo. Sint aute reprehenderit eu occaecat esse consequat laboris. Dolore in veniam occaecat consectetur reprehenderit consectetur ex eu. Pariatur ullamco dolor labore ex occaecat ullamco sint proident magna qui aliquip dolor ullamco tempor.",
-    "registered": "Tuesday, October 7, 2014 9:06 AM",
-    "latitude": "-74.673336",
-    "longitude": "96.631255",
-    "tags": [
-      "reprehenderit",
-      "reprehenderit",
-      "deserunt",
-      "ea",
-      "commodo"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Martinez Snow"
-      },
-      {
-        "id": 1,
-        "name": "Talley White"
-      },
-      {
-        "id": 2,
-        "name": "Rojas Jordan"
-      }
-    ],
-    "greeting": "Hello, Calderon! You have 7 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5e878a14278b74444bca135a",
-    "index": 6,
-    "guid": "b1a7068e-8b3e-49d6-a1f7-c8a6d4752549",
-    "isActive": false,
-    "balance": "$2,521.57",
-    "picture": "http://placehold.it/32x32",
-    "age": 28,
-    "eyeColor": "blue",
-    "name": {
-      "first": "Craig",
-      "last": "Wiggins"
-    },
-    "company": "ZOSIS",
-    "email": "craig.wiggins@zosis.net",
-    "phone": "+1 (842) 572-2511",
-    "address": "127 Pitkin Avenue, Robinson, New York, 4067",
-    "about": "Tempor occaecat culpa Lorem minim culpa. Consequat esse et dolore pariatur duis nostrud veniam consequat aute deserunt amet nisi. Adipisicing elit nulla amet cupidatat esse quis commodo enim incididunt. Cillum cillum mollit ut esse occaecat nisi sunt Lorem enim incididunt ipsum officia cupidatat. Reprehenderit ullamco aliqua adipisicing dolore proident eu eiusmod nostrud.",
-    "registered": "Sunday, March 5, 2017 4:05 AM",
-    "latitude": "-84.942348",
-    "longitude": "-3.353537",
-    "tags": [
-      "nostrud",
-      "pariatur",
-      "cillum",
-      "duis",
-      "dolore"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Hines Vincent"
-      },
-      {
-        "id": 1,
-        "name": "Huber Norris"
-      },
-      {
-        "id": 2,
-        "name": "Priscilla Baldwin"
-      }
-    ],
-    "greeting": "Hello, Craig! You have 6 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5e878a144f42fd7d135be3cf",
-    "index": 7,
-    "guid": "2aaec990-268e-4c59-93f8-6c919fcc1edf",
-    "isActive": true,
-    "balance": "$3,504.19",
-    "picture": "http://placehold.it/32x32",
-    "age": 34,
-    "eyeColor": "green",
-    "name": {
-      "first": "Melanie",
-      "last": "Salinas"
-    },
-    "company": "VOIPA",
-    "email": "melanie.salinas@voipa.tv",
-    "phone": "+1 (958) 526-3461",
-    "address": "708 Ridgewood Avenue, Goodville, Michigan, 195",
-    "about": "Laboris proident magna labore ullamco cupidatat ullamco eiusmod consectetur aliqua enim ipsum occaecat consectetur Lorem. Mollit tempor consequat voluptate magna veniam sint cupidatat deserunt elit occaecat id ad. Reprehenderit duis deserunt occaecat enim qui ad officia. Nostrud voluptate incididunt eiusmod dolore nisi dolore nostrud aliqua elit incididunt. Nostrud eu commodo laboris qui cillum ad exercitation nisi. Culpa magna dolore excepteur eu velit cupidatat.",
-    "registered": "Wednesday, March 25, 2020 4:59 PM",
-    "latitude": "-2.715141",
-    "longitude": "-30.152232",
-    "tags": [
-      "aliquip",
-      "officia",
-      "incididunt",
-      "aliqua",
-      "laborum"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Amparo Joyner"
-      },
-      {
-        "id": 1,
-        "name": "Carla Armstrong"
-      },
-      {
-        "id": 2,
-        "name": "Stafford Solis"
-      }
-    ],
-    "greeting": "Hello, Melanie! You have 7 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5e878a143f9673ac47055ec2",
-    "index": 8,
-    "guid": "a34ef84a-71be-4d06-9ff0-ee1bfa0d8234",
-    "isActive": false,
-    "balance": "$1,087.92",
-    "picture": "http://placehold.it/32x32",
-    "age": 29,
-    "eyeColor": "blue",
-    "name": {
-      "first": "Carey",
-      "last": "Colon"
-    },
-    "company": "COMVERGES",
-    "email": "carey.colon@comverges.biz",
-    "phone": "+1 (965) 487-2661",
-    "address": "578 Goodwin Place, Wawona, Tennessee, 9364",
-    "about": "Velit ullamco aliqua aliqua quis fugiat cupidatat consequat labore ad enim Lorem. Commodo id dolore dolore reprehenderit sit fugiat consequat commodo labore aliqua id ea aute. Magna magna laboris labore incididunt sit magna exercitation. Sit enim laborum qui occaecat cillum cupidatat irure nulla duis tempor exercitation. Anim aliqua officia minim ut cupidatat aliqua.",
-    "registered": "Thursday, March 31, 2016 5:58 AM",
-    "latitude": "2.192117",
-    "longitude": "7.598617",
-    "tags": [
-      "magna",
-      "commodo",
-      "minim",
-      "veniam",
-      "duis"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Jodi Rios"
-      },
-      {
-        "id": 1,
-        "name": "Misty Skinner"
-      },
-      {
-        "id": 2,
-        "name": "Singleton Larson"
-      }
-    ],
-    "greeting": "Hello, Carey! You have 10 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "5e878a1455a44ef8e39c8536",
-    "index": 9,
-    "guid": "39d528bd-d0aa-4589-b4f3-b910a1f2e8cb",
-    "isActive": true,
-    "balance": "$2,812.98",
-    "picture": "http://placehold.it/32x32",
-    "age": 25,
-    "eyeColor": "blue",
-    "name": {
-      "first": "Neva",
-      "last": "Stuart"
-    },
-    "company": "SUREMAX",
-    "email": "neva.stuart@suremax.io",
-    "phone": "+1 (981) 593-2370",
-    "address": "568 Highland Place, Harold, Missouri, 1668",
-    "about": "Dolor eiusmod minim magna qui. Et excepteur mollit id elit ipsum id et ullamco. Sunt non non qui veniam ad nisi id culpa amet velit commodo occaecat quis. Irure non excepteur mollit sint fugiat exercitation pariatur esse reprehenderit laborum aute duis eu. Ad duis velit deserunt deserunt. Irure sunt incididunt qui nisi non eu consequat ea magna ad dolor eu amet. Lorem incididunt Lorem occaecat Lorem officia elit dolor nulla sint ullamco ipsum aute.",
-    "registered": "Wednesday, March 15, 2017 10:18 AM",
-    "latitude": "35.599902",
-    "longitude": "154.638265",
-    "tags": [
-      "eu",
-      "sint",
-      "cupidatat",
-      "sunt",
-      "aute"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Blanche Barrett"
-      },
-      {
-        "id": 1,
-        "name": "Jimenez Anderson"
-      },
-      {
-        "id": 2,
-        "name": "Concetta Campbell"
-      }
-    ],
-    "greeting": "Hello, Neva! You have 6 unread messages.",
-    "favoriteFruit": "strawberry"
-  }
-]
+{
+	"cols": [
+		"datetime",
+		"value"
+	],
+	"data": [
+		[
+			"11/03/2020 2323:MarMar.thth",
+			47
+		],
+		[
+			"26/11/2019 1818:NovNov.thth",
+			89
+		],
+		[
+			"22/12/2019 2222:DecDec.ndnd",
+			35
+		],
+		[
+			"19/01/2020 1111:JanJan.thth",
+			93
+		],
+		[
+			"07/10/2020 0707:OctOct.thth",
+			9
+		],
+		[
+			"13/10/2019 0202:OctOct.thth",
+			92
+		],
+		[
+			"18/08/2020 2323:AugAug.thth",
+			75
+		],
+		[
+			"14/07/2019 1414:JulJul.thth",
+			61
+		],
+		[
+			"29/06/2020 0202:JunJun.thth",
+			98
+		],
+		[
+			"22/01/2021 1010:JanJan.ndnd",
+			77
+		],
+		[
+			"18/06/2020 1414:JunJun.thth",
+			9
+		],
+		[
+			"24/07/2019 1212:JulJul.thth",
+			32
+		],
+		[
+			"14/06/2019 0303:JunJun.thth",
+			49
+		],
+		[
+			"16/01/2021 1111:JanJan.thth",
+			8
+		],
+		[
+			"30/08/2019 2020:AugAug.thth",
+			54
+		],
+		[
+			"24/06/2019 1717:JunJun.thth",
+			83
+		],
+		[
+			"22/08/2020 0707:AugAug.ndnd",
+			45
+		],
+		[
+			"14/07/2019 1717:JulJul.thth",
+			23
+		],
+		[
+			"26/08/2019 1515:AugAug.thth",
+			61
+		],
+		[
+			"17/04/2019 0505:AprApr.thth",
+			62
+		],
+		[
+			"10/04/2020 2020:AprApr.thth",
+			59
+		],
+		[
+			"30/11/2019 1010:NovNov.thth",
+			30
+		],
+		[
+			"27/07/2019 1616:JulJul.thth",
+			51
+		],
+		[
+			"13/04/2019 1414:AprApr.thth",
+			60
+		],
+		[
+			"09/04/2020 0505:AprApr.thth",
+			74
+		],
+		[
+			"18/12/2020 1414:DecDec.thth",
+			6
+		],
+		[
+			"11/04/2020 1414:AprApr.thth",
+			40
+		],
+		[
+			"01/10/2019 2020:OctOct.stst",
+			64
+		],
+		[
+			"12/11/2019 1010:NovNov.thth",
+			100
+		],
+		[
+			"08/02/2021 0303:FebFeb.thth",
+			4
+		],
+		[
+			"03/07/2020 0000:JulJul.rdrd",
+			76
+		],
+		[
+			"03/12/2020 0707:DecDec.rdrd",
+			96
+		],
+		[
+			"06/08/2020 2020:AugAug.thth",
+			3
+		],
+		[
+			"02/12/2020 1717:DecDec.ndnd",
+			2
+		],
+		[
+			"14/09/2020 0606:SepSep.thth",
+			68
+		],
+		[
+			"26/04/2019 1010:AprApr.thth",
+			66
+		],
+		[
+			"14/05/2019 0202:MayMay.thth",
+			79
+		],
+		[
+			"11/04/2020 0303:AprApr.thth",
+			51
+		],
+		[
+			"25/03/2021 0505:MarMar.thth",
+			69
+		],
+		[
+			"17/03/2021 1919:MarMar.thth",
+			65
+		],
+		[
+			"26/12/2020 2222:DecDec.thth",
+			7
+		],
+		[
+			"16/10/2019 1919:OctOct.thth",
+			36
+		],
+		[
+			"09/02/2021 1414:FebFeb.thth",
+			50
+		],
+		[
+			"05/03/2020 1313:MarMar.thth",
+			71
+		],
+		[
+			"27/10/2020 1515:OctOct.thth",
+			32
+		],
+		[
+			"09/08/2019 2323:AugAug.thth",
+			13
+		],
+		[
+			"20/03/2020 1717:MarMar.thth",
+			22
+		],
+		[
+			"12/02/2021 0101:FebFeb.thth",
+			80
+		],
+		[
+			"25/11/2020 0202:NovNov.thth",
+			7
+		],
+		[
+			"21/05/2020 0606:MayMay.stst",
+			11
+		],
+		[
+			"16/08/2019 1717:AugAug.thth",
+			90
+		],
+		[
+			"24/06/2020 0606:JunJun.thth",
+			86
+		],
+		[
+			"09/01/2020 0909:JanJan.thth",
+			48
+		],
+		[
+			"30/03/2020 0303:MarMar.thth",
+			41
+		],
+		[
+			"08/01/2021 0808:JanJan.thth",
+			44
+		],
+		[
+			"23/01/2020 0404:JanJan.rdrd",
+			64
+		],
+		[
+			"11/06/2020 0808:JunJun.thth",
+			60
+		],
+		[
+			"19/03/2021 2222:MarMar.thth",
+			25
+		],
+		[
+			"23/04/2020 1414:AprApr.rdrd",
+			89
+		],
+		[
+			"01/08/2020 0404:AugAug.stst",
+			66
+		],
+		[
+			"16/07/2019 0000:JulJul.thth",
+			53
+		],
+		[
+			"17/01/2021 1111:JanJan.thth",
+			75
+		],
+		[
+			"02/04/2020 1616:AprApr.ndnd",
+			56
+		],
+		[
+			"12/12/2020 0101:DecDec.thth",
+			50
+		],
+		[
+			"08/09/2019 1010:SepSep.thth",
+			75
+		],
+		[
+			"03/08/2019 1919:AugAug.rdrd",
+			95
+		],
+		[
+			"27/10/2020 1717:OctOct.thth",
+			18
+		],
+		[
+			"08/04/2020 2020:AprApr.thth",
+			65
+		],
+		[
+			"19/04/2020 0404:AprApr.thth",
+			47
+		],
+		[
+			"26/04/2020 2020:AprApr.thth",
+			82
+		],
+		[
+			"08/05/2019 0202:MayMay.thth",
+			34
+		],
+		[
+			"07/05/2019 1212:MayMay.thth",
+			76
+		],
+		[
+			"23/04/2019 0202:AprApr.rdrd",
+			91
+		],
+		[
+			"27/12/2020 0505:DecDec.thth",
+			17
+		],
+		[
+			"11/10/2020 2020:OctOct.thth",
+			47
+		],
+		[
+			"28/12/2020 1212:DecDec.thth",
+			27
+		],
+		[
+			"26/06/2019 1515:JunJun.thth",
+			34
+		],
+		[
+			"21/04/2019 1313:AprApr.stst",
+			33
+		],
+		[
+			"14/09/2019 1616:SepSep.thth",
+			91
+		],
+		[
+			"27/05/2019 0606:MayMay.thth",
+			74
+		],
+		[
+			"27/07/2019 1919:JulJul.thth",
+			81
+		],
+		[
+			"23/11/2019 0303:NovNov.rdrd",
+			29
+		],
+		[
+			"17/11/2019 1919:NovNov.thth",
+			27
+		],
+		[
+			"22/02/2021 0808:FebFeb.ndnd",
+			5
+		],
+		[
+			"20/10/2020 1010:OctOct.thth",
+			9
+		],
+		[
+			"05/06/2019 0101:JunJun.thth",
+			53
+		],
+		[
+			"14/10/2020 1818:OctOct.thth",
+			28
+		],
+		[
+			"06/07/2020 1616:JulJul.thth",
+			28
+		],
+		[
+			"11/04/2020 0000:AprApr.thth",
+			75
+		],
+		[
+			"10/11/2019 0909:NovNov.thth",
+			21
+		],
+		[
+			"24/09/2020 0606:SepSep.thth",
+			100
+		],
+		[
+			"05/05/2019 2222:MayMay.thth",
+			38
+		],
+		[
+			"03/05/2019 0202:MayMay.rdrd",
+			64
+		],
+		[
+			"17/02/2020 0505:FebFeb.thth",
+			7
+		],
+		[
+			"26/09/2019 2020:SepSep.thth",
+			44
+		],
+		[
+			"04/03/2021 0000:MarMar.thth",
+			32
+		],
+		[
+			"17/06/2020 2121:JunJun.thth",
+			61
+		],
+		[
+			"21/07/2020 0808:JulJul.stst",
+			51
+		],
+		[
+			"29/03/2020 2121:MarMar.thth",
+			18
+		],
+		[
+			"27/12/2020 1515:DecDec.thth",
+			8
+		]
+	]
+}
